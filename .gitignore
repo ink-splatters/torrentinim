@@ -11,3 +11,7 @@ testresults/
 *.env
 
 torrentinim-data.db-journal
+
+.pre-commit-config.yaml
+
+.direnv/
